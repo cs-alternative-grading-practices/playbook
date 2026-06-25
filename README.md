@@ -57,7 +57,7 @@ Please read [How to Contribute](https://cs-alternative-grading-practices.github.
 for instructions on how to file an  issue (to suggest new plays or
 corrections) or to create a pull request
 (for new/revised content contributions). Or, when viewing any page in
-the playbook in the live online site, you can click the **GiitHub icon** in
+the playbook in the live online site, you can click the **GitHub icon** in
 the header of the left sidebar table of contents to go directly to the
 corresponding source file on GitHub, and use GitHub's inline editing features
 to initiate a pull request right from your browser.
